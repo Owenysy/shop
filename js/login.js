@@ -1,0 +1,1 @@
+jQuery.get('/path/to/file',{paraml:'valuel',function{data,textStatus,xhr}});
